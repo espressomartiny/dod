@@ -15,7 +15,8 @@ html {
     justify-content: center;
     font-family: "Roboto Condensed", sans-serif;
     color: white;
-    background: #9795f0 linear-gradient(to bottom, #c78f3c 0%, #c93d5e 100%);
+    background: #ab2433;
+    /* background: #9795f0 linear-gradient(to bottom, #c78f3c 0%, #c93d5e 100%); */
   }
   
   .obsah {
@@ -47,7 +48,7 @@ html {
   
   #obor {
     width: 650px;
-    height: 200px;
+    height: 300px;
     margin: 0 auto;
     padding: 20px 20px 50px 20px;
     font-size: 40px;
@@ -95,7 +96,7 @@ html {
   @media screen and (max-width: 660px) {
     #obor {
       width: 90%;
-      height: 200px;
+      height: 300px;
       margin: 0 auto;
       padding: 20px 20px 50px 20px;
       font-size: 30px;
