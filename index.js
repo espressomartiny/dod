@@ -56,7 +56,7 @@ let obory = [
   
   function vyberObor() {
     if (obory.length === 0) {
-      return;
+      obory = tazeneObory;
     }
   
     let vybranyIndex = Math.floor(Math.random() * obory.length);
