@@ -95,6 +95,11 @@ html {
 
   .link {
    margin-top: 50px ;
+   margin-bottom: 50px;
+  }
+
+  a {
+    color: #0660d4;
   }
   
   @media screen and (max-width: 660px) {
